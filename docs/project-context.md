@@ -45,6 +45,13 @@ Weak hook: greeting, slow setup, scene-only, generic insult/eviction (“get out
 2. Sharp line delayed past 3s, or first 3s are only atmosphere (enter room, chop tomatoes, airport wait, greeting).
 3. Duplicate opening lines across many rows (e.g. “She's just the maid!”, “You watched me drown!”) — fine alone, weak if posted back-to-back.
 
+## Git mirror
+
+- Repo: https://github.com/ddaazs/tool-facebook
+- Branch: `main`
+- Commit: `46a68824b3cc964ecb924fe36c1bfa358e7bfd10` (2026-11-12 Asia/Saigon)
+- Files on GitHub: `docs/hook-3s-cot-i.md`, `docs/project-context.md`, `preferences.md`
+
 ## Open / next options (not started)
 
 - Write proposed EN hooks into a new column on the Google Sheet (user offered this; not requested yet)
@@ -55,3 +62,4 @@ Weak hook: greeting, slow setup, scene-only, generic insult/eviction (“get out
 
 - Project root: this chat
 - Hook review worker: `bc-359db148-2fed-5849-b5bd-6e749bf97214` (Hook cột I)
+- Push worker: `bc-85a495a1-9330-5663-ac53-c061e372de17` (Push Context Docs) — done
